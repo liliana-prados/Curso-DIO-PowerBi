@@ -13,10 +13,10 @@ Os dados para este projeto foram fornecidos em arquivos txt/Excel e incluem info
 * Power BI Desktop
 
 ### Página 1
-![Página inicial](Página1-relatório.png)
+![Página inicial](PowerBi-Relatório-Vendas/Página1-relatório.png)
 
 ### Página 2
-![Página final](Página2-relatório.png)
+![Página final](PowerBi-Relatório-Vendas/Página2-relatório.png)
 
 ## Como Visualizar o Relatório
 Você pode baixar os arquivos em PNG das páginas 1 e 2 do relatório. Ou se preferir algo mais dinâmico, poderá também baixar o arquivo `.pbix`, e abri-lo no Power BI Desktop para explorar o modelo de dados.
