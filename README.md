@@ -31,7 +31,7 @@ Este projeto consiste em um dashboard desenvolvido no **Power BI Desktop**, que 
 ## Página do Dashboard
 ![Página do Dashboard](Dashboard-PowerBi-com-MySQL/Dashboard-para-Bootcamp-DIO.png)
 
-## Como Visualizar/Abrir o Dashboard
+## Como Visualizar o Dashboard
 
 Você pode baixar o arquivo em PNG do Dashboard. Ou se preferir algo mais dinâmico, poderá também baixar o arquivo `.pbix`, e abri-lo no Power BI Desktop para explorar o modelo de dados.
 
