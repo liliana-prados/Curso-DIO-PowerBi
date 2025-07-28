@@ -29,7 +29,7 @@ Você pode baixar os arquivos em PNG das páginas 1 e 2 do relatório. Ou se pre
 Este projeto consiste em um dashboard desenvolvido no **Power BI Desktop**, que oferece uma análise básica dos dados de funcionários, departamentos e projetos de uma empresa. 
 
 ## Página do Dashboard
-![Página do Dashboard](Dashboard-PowerBi-com-MySQL/Dashboard-para-Bootcamp-DIO.png)
+![Página do Dashboard](Dashboard-PowerBi-com-MySQL/Dashboard-para-Bootcamp-DIO-2.png)
 
 ## Como Visualizar o Dashboard
 
